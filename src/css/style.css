@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.judul {
+    font-weight: 600;
+}
+
+.subjudul {
+    font-weight: 500;
+}
+
+.deskripsi {
+    font-weight: 300;
+}
+
+.btn-utama {
+    font-weight: 300;
+    color: white;
+    background-color: #D9B4FD;
+}
+
+.btn-utama:hover {
+    font-weight: 300;
+    color: white;
+    background-color: rgb(183, 152, 214);
+    transition: 0.4s;
+}
+
+.warna-utama {
+    color: #D9B4FD;
+}
+
+.background-utama {
+    background-color: rgb(183, 152, 214);
+}
+
+.jumbo-text {
+    font-weight: 800;
+    font-size: 100px;
+}
